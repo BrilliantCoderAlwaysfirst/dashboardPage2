@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboardPage2/static/css/main.d2c3c277.css",
+    "main.js": "/dashboardPage2/static/js/main.03d2ba85.js",
+    "static/media/willSmith.jpg": "/dashboardPage2/static/media/willSmith.3d41b915366b657d9105.jpg",
+    "static/media/theRock.avif": "/dashboardPage2/static/media/theRock.2a99d45b93d7c240f6e8.avif",
+    "static/media/projectOne.jpeg": "/dashboardPage2/static/media/projectOne.c235212fff74b8000fa6.jpeg",
+    "index.html": "/dashboardPage2/index.html",
+    "main.d2c3c277.css.map": "/dashboardPage2/static/css/main.d2c3c277.css.map",
+    "main.03d2ba85.js.map": "/dashboardPage2/static/js/main.03d2ba85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c3c277.css",
+    "static/js/main.03d2ba85.js"
+  ]
+}
